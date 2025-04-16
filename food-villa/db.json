@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Amul Full Cream Milk - 1L",
+      "category": "Dairy",
+      "price": 62,
+      "mrp": 66,
+      "brand": "Amul",
+      "stock": 100,
+      "image": "https://i.imgur.com/Wv3LAc1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tata Salt - 1kg",
+      "category": "Staples",
+      "price": 25,
+      "mrp": 28,
+      "brand": "Tata",
+      "stock": 200,
+      "image": "https://i.imgur.com/S9dMJ1b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fortune Sunflower Oil - 1L",
+      "category": "Oil & Ghee",
+      "price": 135,
+      "mrp": 145,
+      "brand": "Fortune",
+      "stock": 75,
+      "image": "https://i.imgur.com/Ox4WZKx.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Parle-G Biscuits - 800g",
+      "category": "Snacks",
+      "price": 70,
+      "mrp": 80,
+      "brand": "Parle",
+      "stock": 300,
+      "image": "https://i.imgur.com/rX3ZHBl.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Banana - 1 dozen",
+      "category": "Fruits",
+      "price": 45,
+      "mrp": 50,
+      "brand": "Local",
+      "stock": 50,
+      "image": "https://i.imgur.com/EcxQfUI.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Coca-Cola Bottle - 2L",
+      "category": "Beverages",
+      "price": 90,
+      "mrp": 95,
+      "brand": "Coca-Cola",
+      "stock": 60,
+      "image": "https://i.imgur.com/E9GEySo.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maggi Instant Noodles - 70g",
+      "category": "Snacks",
+      "price": 14,
+      "mrp": 15,
+      "brand": "Maggi",
+      "stock": 150,
+      "image": "https://i.imgur.com/E6B6JKq.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Aashirvaad Atta - 5kg",
+      "category": "Staples",
+      "price": 245,
+      "mrp": 260,
+      "brand": "Aashirvaad",
+      "stock": 40,
+      "image": "https://i.imgur.com/qeKgMdj.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mother Dairy Dahi - 400g",
+      "category": "Dairy",
+      "price": 30,
+      "mrp": 35,
+      "brand": "Mother Dairy",
+      "stock": 100,
+      "image": "https://i.imgur.com/DE9dCNz.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Onion - 1kg",
+      "category": "Vegetables",
+      "price": 25,
+      "mrp": 30,
+      "brand": "Local",
+      "stock": 70,
+      "image": "https://i.imgur.com/ujEQn9z.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Tropicana Orange Juice - 1L",
+      "category": "Beverages",
+      "price": 110,
+      "mrp": 120,
+      "brand": "Tropicana",
+      "stock": 40,
+      "image": "https://i.imgur.com/TVb2HZQ.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Patanjali Cow Ghee - 1L",
+      "category": "Oil & Ghee",
+      "price": 485,
+      "mrp": 500,
+      "brand": "Patanjali",
+      "stock": 30,
+      "image": "https://i.imgur.com/O6qBzEr.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Lay's Classic Salted Chips - 90g",
+      "category": "Snacks",
+      "price": 30,
+      "mrp": 35,
+      "brand": "Lay's",
+      "stock": 90,
+      "image": "https://i.imgur.com/raDAUHU.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Apple (Royal Gala) - 1kg",
+      "category": "Fruits",
+      "price": 160,
+      "mrp": 180,
+      "brand": "Local",
+      "stock": 40,
+      "image": "https://i.imgur.com/xZ0L3v5.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Britannia Bread - 400g",
+      "category": "Bakery",
+      "price": 28,
+      "mrp": 30,
+      "brand": "Britannia",
+      "stock": 70,
+      "image": "https://i.imgur.com/2uKdU4U.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Nestlé Everyday Milk Powder - 200g",
+      "category": "Dairy",
+      "price": 95,
+      "mrp": 105,
+      "brand": "Nestlé",
+      "stock": 50,
+      "image": "https://i.imgur.com/6FD3YFH.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Pepsi Can - 330ml",
+      "category": "Beverages",
+      "price": 35,
+      "mrp": 40,
+      "brand": "Pepsi",
+      "stock": 120,
+      "image": "https://i.imgur.com/Rd4rrEM.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Cucumber - 500g",
+      "category": "Vegetables",
+      "price": 20,
+      "mrp": 25,
+      "brand": "Local",
+      "stock": 80,
+      "image": "https://i.imgur.com/SxeRvTf.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Dettol Antiseptic Liquid - 550ml",
+      "category": "Household",
+      "price": 105,
+      "mrp": 115,
+      "brand": "Dettol",
+      "stock": 40,
+      "image": "https://i.imgur.com/0bNlhq4.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Basmati Rice - 5kg",
+      "category": "Staples",
+      "price": 399,
+      "mrp": 430,
+      "brand": "India Gate",
+      "stock": 25,
+      "image": "https://i.imgur.com/yKi8vWT.jpg"
+    }
+  ],
+  "cart": []
+}
